@@ -1,4 +1,4 @@
-<h1>WELCOME TO MY PROFILE</h1>
+<h1>WELCOME TO MY PROFILE!</h1>
 <p1>Im Verrence, a student from Elyon School.</p1>
 <p2>I like to watch peppa pig and i love snoooopppppyyy.</p2>
 <p3> I also love to hear LANY sonngsss 😗.</p3>
